@@ -1,9 +1,8 @@
 # PrimeiroApp-React
 Aplicação para consulta de Issues abertas em repositórios do GitHub
 
+![Lista](https://user-images.githubusercontent.com/47827967/69690496-cabba000-10aa-11ea-964e-ea46c88059df.PNG)
 
-https://user-images.githubusercontent.com/47827967/69690371-57b22980-10aa-11ea-82c0-8b96cfb68803.PNG
+![angular](https://user-images.githubusercontent.com/47827967/69690514-de670680-10aa-11ea-97b2-13f871e09f32.PNG)
 
-https://user-images.githubusercontent.com/47827967/69690392-6567af00-10aa-11ea-8d4c-86a7b69679a0.PNG
-
-https://user-images.githubusercontent.com/47827967/69690400-6c8ebd00-10aa-11ea-96b0-5f5327facf57.PNG
+![reactnative](https://user-images.githubusercontent.com/47827967/69690517-e757d800-10aa-11ea-9e3e-ab35e1147d04.PNG)
