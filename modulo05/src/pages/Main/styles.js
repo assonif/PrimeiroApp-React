@@ -1,9 +1,17 @@
 import styled, { keyframes, css } from 'styled-components';
 
-export const Form = styled.form`
+export const Form = styled.form.attrs(props => ({
+  disabled: props.error,
+}))`
   margin-top: 30px;
   display: flex;
   flex-direction: row;
+
+  &[disabled] {
+    input {
+      border: 2px solid #ff0000;
+    }
+  }
 
   input {
     flex: 1;
